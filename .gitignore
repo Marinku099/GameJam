@@ -1,1 +1,4 @@
 *.png
+GameJamCS/Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/libburst-llvm-10.dylib
+GameJamCS/Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/libburst-llvm-19.dylib
+GameJamCS/Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/libMonoDebuggerHandling.dylib
